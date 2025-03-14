@@ -21,11 +21,8 @@ A simple **To-Do List** application built using **Python** and **Tkinter**, with
    git clone https://github.com/your-username/to-do-list.git
    cd to-do-list
    ```
-2. **Install dependencies:**  
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Run the script:**  
+
+2. **Run the script:**  
    ```bash
    python todo.py
    ```
